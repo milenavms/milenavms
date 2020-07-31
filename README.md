@@ -1,6 +1,9 @@
 ### Hi there 👋
 
--  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/milena-vasconcelos-342445125/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/milena-vasconcelos-342445125/)
+
+
+[![Curriculo Badge](https://img.shields.io/badge/Blog-felipefialho.com-black)](https://milenavms.github.io/curriculo/)
 
 
 

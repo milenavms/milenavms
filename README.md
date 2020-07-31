@@ -6,6 +6,12 @@
 
 
 #### Projetos Front-End
+
+- :computer: Lendaflix:
+[milenavms.github.io](#)
+:pushpin: GitHub:
+[milenavms.github](https://github.com/milenavms/lendasflix)
+
 - :computer: Tela de Login:
 [telalogininterativa.github.io](https://milenavms.github.io/telaLoginInterativa/)
 :pushpin: GitHub:

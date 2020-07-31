@@ -10,11 +10,7 @@
 
 
 
-[![GitHub Badge](https:https://img.shields.io/badge/-github-yellow)](https://github.com/milenavms/telaLoginInterativa)
-
-⚡ ![milenavmscurriculo.github.io](https://milenavms.github.io/curriculo/)
-[![GitHub Badge](https:https://img.shields.io/badge/-github-yellow)](https://github.com/milenavms/curriculo
-
+[TelaLoginInterativa](https://milenavms.github.io/telaLoginInterativa/)
 
 
 

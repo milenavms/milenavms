@@ -2,7 +2,6 @@
 
 ##### Veja mais:
 [![Curriculo Badge](https://img.shields.io/badge/curriculo-milena-orange)](https://milenavms.github.io/curriculo/)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-vasconcelos-342445125/)](https://www.linkedin.com/in/milena-vasconcelos-342445125/)
 
 

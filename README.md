@@ -9,7 +9,7 @@
 #### Projetos Front-End
 
 
-⚡ ![telaInterativa](https://milenavms.github.io/telaLoginInterativa/)
+
 [![GitHub Badge](https:https://img.shields.io/badge/-github-yellow)](https://github.com/milenavms/telaLoginInterativa)
 
 ⚡ ![milenavmscurriculo.github.io](https://milenavms.github.io/curriculo/)

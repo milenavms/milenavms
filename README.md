@@ -7,7 +7,7 @@
 
 #### Projetos Front-End
 
-- :computer: Lendaflix:
+- :computer: Lendasflix:
 [milenavms.github.io](#)
 :pushpin: GitHub:
 [milenavms.github](https://github.com/milenavms/lendasflix)

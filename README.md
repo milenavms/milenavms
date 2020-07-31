@@ -8,12 +8,12 @@
 #### Projetos Front-End
 - :computer: Tela de Login:
 [telalogininterativa.github.io](https://milenavms.github.io/telaLoginInterativa/)
-- 😄 GitHub:
+- :pushpin: GitHub:
 [telalogininterativa.github](https://github.com/milenavms/telaLoginInterativa)
 
-- ⚡ Curriculo:
+- :computer: Curriculo:
 [milenavms.github.io](https://milenavms.github.io/curriculo/)
-- 😄 GitHub:
+- :pushpin: GitHub:
 [milenavms.github](https://github.com/milenavms/curriculo)
 
 

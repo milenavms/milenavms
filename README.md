@@ -11,6 +11,11 @@
 - 😄 GitHub:
 [telalogininterativa.github](https://github.com/milenavms/telaLoginInterativa)
 
+- ⚡ Curriculo:
+[milenavms.github.io](https://milenavms.github.io/curriculo/)
+- 😄 GitHub:
+[milenavms.github](https://github.com/milenavms/curriculo)
+
 
 
 

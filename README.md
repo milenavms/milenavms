@@ -6,7 +6,7 @@
 
 
 #### Projetos Front-End
-- ⚡ Tela de Login:
+- :computer: Tela de Login:
 [telalogininterativa.github.io](https://milenavms.github.io/telaLoginInterativa/)
 - 😄 GitHub:
 [telalogininterativa.github](https://github.com/milenavms/telaLoginInterativa)

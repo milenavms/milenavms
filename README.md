@@ -5,22 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-vasconcelos-342445125/)](https://www.linkedin.com/in/milena-vasconcelos-342445125/)
 
 
-#### Projetos Front-End
-
-- :computer: Lendasflix:
-[milenavms.github.io](#)
-:pushpin: GitHub:
-[milenavms.github](https://github.com/milenavms/lendasflix)
-
-- :computer: Tela de Login:
-[telalogininterativa.github.io](https://milenavms.github.io/telaLoginInterativa/)
-:pushpin: GitHub:
-[telalogininterativa.github](https://github.com/milenavms/telaLoginInterativa)
-
-- :computer: Curriculo:
-[milenavms.github.io](https://milenavms.github.io/curriculo/)
-:pushpin: GitHub:
-[milenavms.github](https://github.com/milenavms/curriculo)
 
 
 

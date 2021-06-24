@@ -1,6 +1,7 @@
 ### Olá 👋
 
 Sou Milena Vasconcelos, tenho 24 anos e conheci o mundo da programção na gradação. 
+
 Estudei Licenciatura em Computação na Universidade do Estado do Amazonas, na cidade de Itacoatiara, interior do AM. Após isso, trabalhei como Professora de Robótica e Programação.
 No ano de 2020 inicie um novo ciclo, como Software Engineer na Bemol Digital, onde trabalho atualmente.
 Sempre estou participando das semanas NLW da Rocketseat, que é uma semana de desafio prático (front end, back end e mobile). Foi onde conheci o **React** e desde então tenho focado nas tecnologias voltadas para o **front-end**.

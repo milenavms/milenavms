@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou Milena Vasconcelos, tenho 24 anos e conheci o mundo da programção na graduação no ano de 2015. 
+Sou Milena Vasconcelos, tenho 26 anos e conheci o mundo da programção na graduação no ano de 2015. 
 
 Estudei Licenciatura em Computação na Universidade do Estado do Amazonas, na cidade de Itacoatiara, interior do AM. Após isso, trabalhei como Professora de Robótica e Programação.
 

@@ -1,17 +1,12 @@
 ### Olá 👋
 
-Sou Milena Vasconcelos, tenho 26 anos e conheci o mundo da programção na graduação no ano de 2015. 
+Sou Milena Vasconcelos, tenho 26 anos e conheci o mundo da programação na graduação no ano de 2015. 
 
-Estudei Licenciatura em Computação na Universidade do Estado do Amazonas, na cidade de Itacoatiara, interior do AM. Após isso, trabalhei como Professora de Robótica e Programação.
+Estudei na Universidade do Estado do Amazonas, na cidade de Itacoatiara, interior do AM. Após isso, trabalhei como Professora de Robótica e Programação.
 
-No ano de 2020 inicie um novo ciclo, como Software Engineer na Bemol Digital, onde trabalho atualmente atuando no desenvolvimento mobile (Android, JAVA).
+No ano de 2020 inicie um novo ciclo, como Software Engineer na Bemol Digital, onde trabalho atualmente atuando no desenvolvimento front-end mobile (Android, JAVA).
 
 Nesta página você irá ver alguns pequenos projetos desenvolvidos durante meus estudos.
-
-##### Veja mais:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-vasconcelos-342445125/)](https://www.linkedin.com/in/milena-vasconcelos-342445125/)
-
-
 
 
 <!--

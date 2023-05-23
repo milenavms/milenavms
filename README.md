@@ -4,7 +4,7 @@ Sou Milena Vasconcelos, tenho 26 anos e conheci o mundo da programação na grad
 
 Estudei na Universidade do Estado do Amazonas, na cidade de Itacoatiara, interior do AM. Após isso, trabalhei como Professora de Robótica e Programação.
 
-Atualmente atuo como dev front-end no Grupo Atem.
+Atualmente atuo como dev front-end no Grupo Atem/Ream.
 
 Nesta página você irá ver alguns pequenos projetos desenvolvidos durante meus estudos.
 

@@ -4,7 +4,7 @@ Sou Milena Vasconcelos, tenho 26 anos e conheci o mundo da programação na grad
 
 Estudei na Universidade do Estado do Amazonas, na cidade de Itacoatiara, interior do AM. Após isso, trabalhei como Professora de Robótica e Programação.
 
-No ano de 2020 inicie um novo ciclo, como Software Engineer na Bemol Digital, onde trabalho atualmente atuando no desenvolvimento front-end mobile (Android, JAVA).
+Atualmente atuo como dev front-end no Grupo Atem.
 
 Nesta página você irá ver alguns pequenos projetos desenvolvidos durante meus estudos.
 

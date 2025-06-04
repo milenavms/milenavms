@@ -6,6 +6,12 @@ Apaixonada por usar a tecnologia como ferramenta para resolver problemas do mund
 Atuei em projetos como sistemas de controle de distribuição de combustível, gerenciamento de vendas, entre outras aplicações voltadas à otimização de processos e à melhoria da experiência do usuário.
 
 Sinta-se à vontade para se conectar ou entrar em contato!
+- <a href="mailto:milenavasconcelos.info@gmail.com">
+  <img src="https://img.icons8.com/ios-filled/16/000000/new-post.png" alt="email icon" style="vertical-align:middle; margin-right:4px;" />
+  milenavasconcelos.info@gmail.com
+</a>
+
+
 
 ### 🚀 Sobre Mim
 

@@ -1,18 +1,25 @@
-### Olá 👋
-Meu nome é Milena Vasconcelos e minha trajetória na programação começou durante a graduação em Ciência da Computação, realizada entre 2015 e 2018 pela Universidade do Estado do Amazonas (UEA), na cidade de Itacoatiara, interior do Amazonas.
+### Olá, eu sou Milena Santos 👋
+Sou Desenvolvedora de Software, pós-graduada em Desenvolvimento Full-Stack pela PUC Minas, com foco e experiência em engenharia front-end.
 
-Após concluir o curso, iniciei minha carreira profissional como professora de Robótica e Programação em Manaus, em 2019. Essa experiência me proporcionou a oportunidade de compartilhar conhecimentos e despertar o interesse de jovens pela tecnologia — algo que considero extremamente gratificante.
+Apaixonada por usar a tecnologia como ferramenta para resolver problemas do mundo real, tenho construído soluções robustas no desenvolvimento web.
 
-Em 2020, decidi direcionar minha carreira para o desenvolvimento de software. Desde então, venho atuando como desenvolvedora front-end, atualmente no Grupo Atem/Ream, com sede em Manaus. Nesse papel, trabalho com tecnologias como React.js, JavaScript e TypeScript, participando ativamente da criação de soluções digitais inovadoras.
+Atuei em projetos como sistemas de controle de distribuição de combustível, gerenciamento de vendas, entre outras aplicações voltadas à otimização de processos e à melhoria da experiência do usuário.
 
-Essa transição marcou um passo importante na minha jornada profissional, permitindo que eu aplicasse, de forma prática e desafiadora, tudo o que aprendi sobre programação. Sigo motivada a evoluir constantemente nesse universo dinâmico da tecnologia.
+Sinta-se à vontade para se conectar ou entrar em contato!
 
-Nesta página, você encontrará alguns projetos que desenvolvi durante meus estudos — cada um deles refletindo um pouco da minha dedicação e vontade de aprender mais.
+### 🚀 Sobre Mim
+
+- 🎓 Pós Graduada em Desenvolvimento Full-Stack - PUC Minas
+- 🎓 Graduada em T.I - (UEA) Universidade do Estado do Amazonas
+- 💻 5 anos de experiência na área de Desenvolvimento do Software.
+- 🏢 2 anos e 1 mes (Empresa REAM - Refinaria da Amazônia) Atuando especificamente com Front-end utilizando React, TypeScript, JS, Jest e React Testing Library (testes)
+- 🏢 2 anos e 9 meses (Empresa BEMOL) Atuando em desenvolvimento Mobile - Consulmo de API, sustentacão em DELPHI e ABAP.
+- 🎯 Focado em arquitetura limpa, código sustentável e desempenho
 
 
 ### Font-End Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwindcss)](https://skillicons.dev)
 
 
 ### Social Media 

@@ -25,7 +25,7 @@ Sinta-se à vontade para se conectar ou entrar em contato!
 
 ### Font-End Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwindcss,docker)](https://skillicons.dev)
 
 
 ### Social Media 

@@ -25,10 +25,24 @@ Sinta-se à vontade para se conectar ou entrar em contato!
 - 💻 5 anos de experiência na área de Desenvolvimento do Software.
 - 🏢 2 anos e 1 mes (Empresa REAM - Refinaria da Amazônia) Atuando especificamente com Front-end utilizando React, TypeScript, JS, Jest e React Testing Library (testes)
 - 🏢 2 anos e 9 meses (Empresa BEMOL) Atuando em desenvolvimento Mobile - Consulmo de API, sustentacão em DELPHI e ABAP.
-- 🎯 Focado em arquitetura limpa, código sustentável e desempenho
 
 
-### Font-End Skills
+### 💻 Skills Font-End  (Habilidades Técnicas)
+- React, TypeScript, JavaScript
+  - Gerenciamento de estado com React Hooks (useState, useEffect, useContext, useReducer)
+  - Uso de context API para gerenciamento global de estado
+  - Roteamento com React Router
+  - Otimização de performance usando React.memo, lazy loading, suspense e code splitting
+- HTML semântico
+  - Utilizo HTML semântico e práticas de acessibilidade para construir interfaces web inclusivas, garantindo melhor usabilidade para todos os usuários e otimização para motores de busca.
+- TailwindCss, MaterialUI, CSS
+- Testes: Jest, React Testing Library
+- CI/CD: Configuração de pipelines de CI/CD com GitHub Actions
+- Docker
+- Conhecimento em padrões de design como Atomic Design e Clean Architecture aplicado em React
+- Consumo de APIs e integração com back-end usando fetch, axios e outras bibliotecas
+
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwindcss,docker)](https://skillicons.dev)
 

@@ -33,7 +33,7 @@ Sinta-se à vontade para se conectar ou entrar em contato!
   - Uso de context API para gerenciamento global de estado
   - Roteamento com React Router
   - Otimização de performance usando React.memo, lazy loading, suspense e code splitting
-- React
+- Angular
 - Flutter
 - HTML semântico
   - Utilizo HTML semântico e práticas de acessibilidade para construir interfaces web inclusivas, garantindo melhor usabilidade para todos os usuários e otimização para motores de busca.

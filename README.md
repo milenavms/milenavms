@@ -23,6 +23,7 @@ Sinta-se à vontade para se conectar ou entrar em contato!
 - 🎓 Pós Graduada em Desenvolvimento Full-Stack - PUC Minas
 - 🎓 Graduada em T.I - (UEA) Universidade do Estado do Amazonas
 - 💻 5 anos de experiência na área de Desenvolvimento do Software.
+- 🏢 TOTVS - BU: RD Station - Nov/2025 - Atual.
 - 🏢 2 anos e 1 mes (Empresa REAM - Refinaria da Amazônia) Atuando especificamente com Front-end utilizando React, TypeScript, JS, Jest e React Testing Library (testes)
 - 🏢 2 anos e 9 meses (Empresa BEMOL) Atuando em desenvolvimento Mobile - Consulmo de API, sustentacão em DELPHI e ABAP.
 
